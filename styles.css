@@ -133,6 +133,7 @@ section h2::after {
     padding: 40px 0;
     width: 100vw;       
     margin-left: calc(-43vw + 50%); 
+    margin-top: calc(-40vw + 50%); 
     padding-left: 35%;
 
 }
@@ -150,7 +151,6 @@ section h2::after {
     margin: 0;
     padding-left: 5%;
 }
-
 
 
 
